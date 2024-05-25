@@ -17,20 +17,20 @@ To download and check out the template, follow these steps:
 
 Clone the repository: 
 
-**git clone repository-url**
++ **git clone repository-url**
 
 Navigate to the project directory:
 
-**cd directory**
++ **cd directory**
 
 Install the dependencies: 
 
-**npm install**
++ **npm install**
 
 
 Start the development server: 
 
-**npm run dev**
++ **npm run dev**
 
 You can now open your browser and visit http://localhost:3000 to see the template in action.
 
